@@ -1,6 +1,6 @@
 {
   "name": "joys-animate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "sass animate",
   "main": "",
   "files": [
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dylan-7/joys-react-common.git"
+    "url": "git+https://github.com/dylan-7/joys-animate.git"
   },
   "author": "",
   "license": "ISC",
