@@ -1,2 +1,11 @@
 # joys-animate
-🐳 纯css动画库
+
+
+```
+  index.scss
+
+  @import "animate";
+
+  @include animation(animate-name);
+
+```
